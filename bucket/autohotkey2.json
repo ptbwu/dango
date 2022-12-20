@@ -1,10 +1,10 @@
 {
-    "version": "2.0-rc.3",
+    "version": "2.0.0",
     "description": "The ultimate automation scripting language for Windows.",
     "homepage": "https://www.autohotkey.com/",
     "license": "GPL-2.0-or-later",
-    "url": "https://www.autohotkey.com/download/2.0/AutoHotkey_2.0-rc.3.zip",
-    "hash": "ebf1c8c97e3e242ed053596300dbd6e9b11d6c485a9e5175bc9fb7866c61f28b",
+    "url": "https://www.autohotkey.com/download/2.0/AutoHotkey_2.0.0.zip",
+    "hash": "04eb8295af197da058cec5a2b78b8b7f6bcee7299cbadebf68dc6837968c5bb0",
     "architecture": {
         "64bit": {
             "bin": [
