@@ -1,13 +1,13 @@
 {
-    "version": "7.4.5",
+    "version": "7.5.2",
     "description": "Powerful office suite",
     "homepage": "https://libreoffice.org/",
     "license": "MPL-2.0",
     "suggest": {
         "vcredist": "extras/vcredist2022"
     },
-    "url": "https://download.documentfoundation.org/libreoffice/portable/7.4.5/LibreOfficePortable_7.4.5_MultilingualStandard.paf.exe#/dl.7z",
-    "hash": "79b3fa6fc77e823864180d2319c331e02e6b535b92a99f975aec83db57f094fb",
+    "url": "https://download.documentfoundation.org/libreoffice/portable/7.5.2/LibreOfficePortable_7.5.2_MultilingualStandard.paf.exe#/dl.7z",
+    "hash": "c9916b8cf5f73f3b37bfe16c3f70753d03bc08ee9ddd7ed93937e926ed1884c3",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\\Data\\settings\")) {",
         "    New-Item \"$dir\\Data\\settings\\LibreOfficePortableSettings.ini\" -Value \"[LibreOfficePortableSettings]`nInvalidPackageWarningShown=$version.0\" -Force | Out-Null",
