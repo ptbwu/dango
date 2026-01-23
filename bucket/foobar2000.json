@@ -1,5 +1,5 @@
 {
-    "version": "2.25.5",
+    "version": "2.25.6",
     "description": "An advanced freeware audio player for the Windows platform.",
     "homepage": "https://www.foobar2000.org/",
     "license": {
@@ -9,8 +9,8 @@
     "suggest": {
         "Encoders": "extras/foobar2000-encoders"
     },
-    "url": "https://www.videohelp.com/download/foobar2000_v2.25.5.exe#/dl.7z",
-    "hash": "6ded9549a37debd82d91f2784676c2a6ae4f58b923981d14fffc4367c249d767",
+    "url": "https://www.videohelp.com/download/foobar2000_v2.25.6.exe#/dl.7z",
+    "hash": "fe1ce15706eea3aff86dbbfcbd643a7593667bf8fb783d7e597a8ce4404fb1fb",
     "installer": {
         "script": [
             "Remove-Item \"$dir\\`$*\", \"$dir\\uninstall.exe\" -Force -Recurse",
