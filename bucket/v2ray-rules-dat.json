@@ -1,11 +1,11 @@
 {
-    "version": "202605042252",
+    "version": "202605052250",
     "description": "Enhanced ruleset for V2Ray (unofficial)",
     "homepage": "https://github.com/Loyalsoldier/v2ray-rules-dat",
     "license": "GPL-3.0-only",
     "depends": "v2ray",
-    "url": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202605042252/rules.zip",
-    "hash": "66306b3f32e1af6752d651f5837e41c89ee2b200be8ecf7fbbb435a137f5c09c",
+    "url": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202605052250/rules.zip",
+    "hash": "e8673a58e159cf806141273bb89ded3c6242fbea0e28ba8aeb1f903363d9e02d",
     "installer": {
         "script": [
             "if (-not (Test-Path \"$persist_dir\\v2ray-rules-dat\")) {",
